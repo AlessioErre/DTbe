@@ -5,7 +5,7 @@ E' STATO PROGETTATO CON LO SCOPO DI DARE OPPORTUNITA' DI SCARICARE MUSICA A TUTT
 
 Aprire un terminale in Centos Linux e digitiamo :
 
-   sudo git clone https://github.com/AlessioErre/DTbe/ && cd progetto-gui/DTbe
+   sudo git clone https://github.com/AlessioErre/DTbe/ && cd progetto-gui
    ./setup
 
 Una volta fatto questo, possiamo finalmente usare il programma tramite la sua interfaccia grafica. Per richiamare il programma da riga di comando, sullo stesso terminale di prima digitiamo :
