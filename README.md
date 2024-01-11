@@ -11,8 +11,7 @@ Aprire un terminale in Centos Linux e digitiamo :
 
 Una volta fatto questo, possiamo finalmente usare il programma tramite la sua interfaccia grafica. Per richiamare il programma da riga di comando, sullo stesso terminale di prima digitiamo :
 
-   mkdir -p /home/username/05-Script
-   python3 /home/username/05-Script/DTbe/progetto-gui/run.py
+   mkdir -p /home/username/05-Script && python3 /home/username/05-Script/DTbe/progetto-gui/run.py
    
  dove /home/username è il percorso col nome utente della macchina in uso.  
    
